@@ -1,6 +1,6 @@
-# Resolução dos desafios do curso Lógica de programação: mergulhe em programação com JavaScript
+# Resolução dos desafios do curso _Lógica de programação: mergulhe em programação com JavaScript_
 
-1. Pergunte ao usuário qual é o dia da semana. Se a resposta for "Sábado" ou "Domingo", mostre "Bom fim de semana!". Caso contrário, mostre "Boa semana!".
+#### 1. Pergunte ao usuário qual é o dia da semana. Se a resposta for "Sábado" ou "Domingo", mostre "Bom fim de semana!". Caso contrário, mostre "Boa semana!".
 
 ```js
 diaDaSemana = prompt('Que dia da semana é hoje?');

@@ -1,5 +1,6 @@
 # Resolução dos desafios do curso _Lógica de programação: mergulhe em programação com JavaScript_
 
+
 #### 1. Pergunte ao usuário qual é o dia da semana. Se a resposta for "Sábado" ou "Domingo", mostre "Bom fim de semana!". Caso contrário, mostre "Boa semana!".
 
 ```js
@@ -13,7 +14,8 @@ if (diaDaSemana == 'Sábado') {
 }
 ```
 
-2. Verifique se um número digitado pelo usuário é positivo ou negativo. Mostre um alerta informando.
+
+#### 2. Verifique se um número digitado pelo usuário é positivo ou negativo. Mostre um alerta informando.
 
 ```js
 numero = prompt('Digite um número positivo ou negativo');
@@ -24,7 +26,8 @@ if (numero > 0) {
 }
 ```
 
-3. Crie um sistema de pontuação para um jogo. Se a pontuação for maior ou igual a 100, mostre "Parabéns, você venceu!". Caso contrário, mostre "Tente novamente para ganhar.".
+
+#### 3. Crie um sistema de pontuação para um jogo. Se a pontuação for maior ou igual a 100, mostre "Parabéns, você venceu!". Caso contrário, mostre "Tente novamente para ganhar.".
 
 ```js
 pontuacao = 89;
@@ -35,14 +38,16 @@ if (pontuacao >= 100) {
 }
 ```
 
-4. Crie uma mensagem que informa o usuário sobre o saldo da conta, usando uma template string para incluir o valor do saldo.
+
+#### 4. Crie uma mensagem que informa o usuário sobre o saldo da conta, usando uma template string para incluir o valor do saldo.
 
 ```js
 let saldoConta = 389;
 alert(`Seu saldo é de R$ ${saldoConta}.` );
 ```
 
-5. Peça ao usuário para inserir seu nome usando prompt. Em seguida, mostre um alerta de boas-vindas usando esse nome.
+
+#### 5. Peça ao usuário para inserir seu nome usando prompt. Em seguida, mostre um alerta de boas-vindas usando esse nome.
 
 ```js
 nome = prompt('Digite seu nome');

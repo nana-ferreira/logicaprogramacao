@@ -1,4 +1,4 @@
-# Resolução dos desafios do curso **Lógica de programação: mergulhe em programação com JavaScript**
+# Resolução dos desafios do curso <span style="color: blue;">**Lógica de programação: mergulhe em programação com JavaScript**</span>
 
 
 #### 1. Pergunte ao usuário qual é o dia da semana. Se a resposta for "Sábado" ou "Domingo", mostre "Bom fim de semana!". Caso contrário, mostre "Boa semana!".
